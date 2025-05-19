@@ -1,0 +1,15 @@
+accident_type,latitude,longitude,weather
+natural disasters,3.06,101.6999,raining
+natural disasters,3.0644,101.7011,stormy
+traffic accident,3.0673,101.69,sunny
+natural disasters,3.0501,101.6955,foggy
+traffic accident,3.0525,101.6706,sunny
+traffic accident,3.0602,101.7028,raining
+traffic accident,3.0544,101.6878,foggy
+traffic accident,3.0603,101.6922,sunny
+traffic accident,3.0468,101.688,raining
+traffic accident,3.0525,101.7003,sunny
+
+
+Normal Accident,3.0492,101.6772,normal
+
