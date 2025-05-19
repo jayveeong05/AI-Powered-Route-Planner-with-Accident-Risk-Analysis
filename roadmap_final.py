@@ -14,6 +14,8 @@ import google.generativeai as genai
 import os
 import re 
 
+# test = "test"
+
 GOOGLE_API_KEY = "AIzaSyDKAflvuMl0OzaEQNYHyqssOgeR2mn4cis"
 GEMINI_API_KEY = "AIzaSyBCzazAGe01lL0TNfTJUb_zmKRtRfgsupQ"
 
